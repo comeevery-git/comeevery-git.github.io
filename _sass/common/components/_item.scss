@@ -20,6 +20,14 @@
   }
 }
 
+// item__content top border
+.items--divided>.item +.item {
+  list-style-type: none;
+  border-top-style: dotted;
+  border-top-color: #7cc7bb;
+  padding-top: 1em;
+}
+
 .item__content {
   @include flex(1);
   min-width: 0;
