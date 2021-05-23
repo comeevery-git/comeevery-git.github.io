@@ -7,6 +7,8 @@ header:
   - title:      Samples
     url:        /samples.html
     key:        samples
+  - title:      Writer
+    url:        /writer.html
   - title:      Archive
     url:        /archive.html
   - title:      About
