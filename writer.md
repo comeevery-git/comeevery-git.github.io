@@ -1,42 +1,23 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       Writer
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  Writer
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  Writer
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       작성자
-  ko-KR   : *KO
-  fr      : &FR       Writer
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
 key: page-about
 ---
 
-<div>
+<div style="
+    width: 100%;
+    background-color: #f3edfe;
+    text-align: -webkit-center;
+    border: 1px solid #ddb4f46b;
+    border-radius: 2em;">
 <img width="100" alt="myIcon" src="https://user-images.githubusercontent.com/52614037/119254381-e7c62600-bbf0-11eb-80e0-38e3202a5336.png">
 </div>
+### Suhee Kang
+> _
+>매일 저에게 일어나는 일들을 기록하고자 합니다.
+><comeevery@gmail.com>
+><https://www.instagram.com/hee_talk>
+><br />
 
-### Suhee Kang 👩🏻‍
-매일 저에게 일어나는 일들을 기록하고자 합니다.
-<comeevery@gmail.com>
-https://www.instagram.com/hee_talk
-
-<br />
-<hr />
 <br />
 
 ## Developer
